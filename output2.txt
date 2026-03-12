@@ -1,0 +1,29 @@
+Name: Geetha
+Date of Birth: 1995-06-15
+Contact: 9876543210
+Email: geetha@example.com
+Degree: B.Tech
+University: ANITS
+Year of Graduation: 2017
+CGPA: 8.5
+Company: TechCorp
+Job Role: Software Engineer
+Years of Experience: 6
+Skills: Python, Java, SQL
+Eligibility: Eligible for Senior Role
+========================================
+========================================
+Name: Surya
+Date of Birth: 1996-11-10
+Contact: 9123456780
+Email: surya@example.com
+Degree: B.Tech
+University: ANITS
+Year of Graduation: 2018
+CGPA: 8.2
+Company: SoftSolutions
+Job Role: Junior Developer
+Years of Experience: 4
+Skills: C++, Python, HTML
+Eligibility: Eligible for Junior Role
+========================================
